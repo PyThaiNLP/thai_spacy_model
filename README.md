@@ -1,4 +1,4 @@
-# Thai SpaCy model
+# Thai spaCy model
 
 Thai language model for spaCy
 
